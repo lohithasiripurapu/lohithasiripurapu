@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?lohithasiripurapu=DenverCoder1)](https://git.io/streak-stats)
+
 <!--
 **lohithasiripurapu/lohithasiripurapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
