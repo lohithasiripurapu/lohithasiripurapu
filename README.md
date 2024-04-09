@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Full Stack Web Application(TechStack - MEAN Stack with java)
+- 🔭 I’m currently working on Web Application(TechStack - MEAN Stack with java)
 - 👯 I’m looking to collaborate with Java Projects
 - 📫 How to reach me: siripurapulohitha@gmail.com
 - 😄 Pronouns: She/Her
