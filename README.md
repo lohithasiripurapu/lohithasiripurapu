@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a new Web App!
+- 🔭 I’m currently working on a new Web App
 - 👯 I’m looking to collaborate with Java Projects
 - 📫 How to reach me: siripurapulohitha@gmail.com
 - 😄 Pronouns: She/Her
