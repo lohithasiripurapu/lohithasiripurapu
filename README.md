@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on a new WebHooks
-- 👯 I’m looking to collaborate with Java Projects
+- 🔭 I’m currently working on new project
+- 👯 I’m looking to collaborate with Java/python Projects
 - 📫 How to reach me: siripurapulohitha@gmail.com
 - 😄 Pronouns: She/Her
 
